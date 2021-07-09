@@ -1,6 +1,18 @@
 body {
     text-align: center;
+    display: flex;
+    justify-content: center;
     font-family: arial;
-    color: deeppink;
+    color: black;
     font-size: 2rem;
+}
+
+.container {
+    padding: 20px;
+    width: 700px;
+    border: solid gray 2px;
+}
+
+.post h1 {
+    font-size: 3rem;
 }
