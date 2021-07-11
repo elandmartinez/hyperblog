@@ -2,7 +2,7 @@ body {
     text-align: center;
     display: flex;
     justify-content: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: arial;
     color: black;
     font-size: 2rem;
 }
